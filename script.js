@@ -18,6 +18,26 @@ const question = [
         ]
 
     },
+     {
+        quistion: "Chef Rim birth place?",
+        answers: [
+            { text: "Pyuthan", correct: false},
+            { text: "London", correct: false},
+            { text: "Syanja", correct: true},
+            { text: "Doha", correct: false},
+        ]
+
+    },
+     {
+        quistion: "How many amj crew at Alpha Location?",
+        answers: [
+            { text: "23", correct: true},
+            { text: "10", correct: false},
+            { text: "33", correct: false},
+            { text: "12", correct: false},
+        ]
+
+    },
     {
         quistion: "What is the distance around Earth at the Equator ?",
         answers: [
